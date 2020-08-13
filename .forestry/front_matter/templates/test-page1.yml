@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: t1
+pages:
+- content/posts/top folder/test post filename.md
