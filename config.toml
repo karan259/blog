@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Cactus theme example"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
+copyright = "Karan Nayan" # cactus will use title if copyright is not set
 #disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -39,7 +39,7 @@ weight = 4
 
 [params]
 
-  colortheme = "white" # dark, light, white, or classic
+  colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
@@ -53,7 +53,7 @@ weight = 4
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2006-01-02" # default
+  dateFormat = "2 Jan 2006" # default
 
   # Post page settings
   show_updated = false # default
@@ -66,10 +66,10 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://github.com/karan259"
+  #[[params.social]]
+  #  name = "linkedin"
+  #  link = "https://www.linkedin.com/company/github/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "knayan.in@gmail.com"  # no need for "mailto:" in the head
